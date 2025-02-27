@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/clinic-web/static/css/main.92e8d111.css",
-    "main.js": "/clinic-web/static/js/main.5172a70c.js",
-    "static/js/787.5e725103.chunk.js": "/clinic-web/static/js/787.5e725103.chunk.js",
+    "main.css": "/clinic-web/static/css/main.99701b6a.css",
+    "main.js": "/clinic-web/static/js/main.1c970b73.js",
+    "static/js/453.293e96e7.chunk.js": "/clinic-web/static/js/453.293e96e7.chunk.js",
     "static/media/1.png": "/clinic-web/static/media/1.7ee5d44283b510ee1579.png",
     "static/media/priority.png": "/clinic-web/static/media/priority.7d14df9bb9541b9ba080.png",
     "static/media/emergency.png": "/clinic-web/static/media/emergency.aa3660521c2ab2c0d8cf.png",
@@ -17,12 +17,12 @@
     "static/media/pattern_02.png": "/clinic-web/static/media/pattern_02.b4699407d2ecbc775edb.png",
     "static/media/logo.png": "/clinic-web/static/media/logo.9cb018fc8926bbe6ba83.png",
     "index.html": "/clinic-web/index.html",
-    "main.92e8d111.css.map": "/clinic-web/static/css/main.92e8d111.css.map",
-    "main.5172a70c.js.map": "/clinic-web/static/js/main.5172a70c.js.map",
-    "787.5e725103.chunk.js.map": "/clinic-web/static/js/787.5e725103.chunk.js.map"
+    "main.99701b6a.css.map": "/clinic-web/static/css/main.99701b6a.css.map",
+    "main.1c970b73.js.map": "/clinic-web/static/js/main.1c970b73.js.map",
+    "453.293e96e7.chunk.js.map": "/clinic-web/static/js/453.293e96e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92e8d111.css",
-    "static/js/main.5172a70c.js"
+    "static/css/main.99701b6a.css",
+    "static/js/main.1c970b73.js"
   ]
 }
